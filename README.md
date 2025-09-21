@@ -15,6 +15,17 @@ Evaluar la interpolante en x = 1.5 y determinar el error de interpolación en di
 y determinar el error de interpolación en dicho punto.
   - Graficar las interpolantes de las partes anteriores junto a la función f en el intervalo [1, 2].
 
+- **P2Ej12**: Las cadenas de Markov modelan sistemas que transitan entre un conjunto finito de
+estados seg´un probabilidades de transici´on. Si P ∈ Mn(R) es la matriz de transici´on (es una matriz
+con entradas no negativas, en las que cada fila suma 1)
+  - P = [
+0,5 0,2 0,2 0,1
+0,3 0,4 0,2 0,1
+0,2 0,3 0,4 0,1
+0,1 0,1 0,2 0,6
+];
+  - Resolver el sistema computacionalmente.
+
 > El código está desarrollado en **MATLAB** (compatible con GNU Octave).
 
 ## 💻 Tecnologías utilizadas
